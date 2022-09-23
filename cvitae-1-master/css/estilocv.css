@@ -12,6 +12,7 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÃ•ES DO NAVEGADOR =====*/
     text-decoration: none;
   } 
 .main{
+display: block; 
 width: 550px;
 height:700px;
 background-color: rgb(72, 88, 110);
