@@ -1,0 +1,37 @@
+/* ===== ESTE BLOCO FAZ UM RESET, OU SEJA GARANTE QUE ALGUNS ATRIBUTOS
+ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÃ•ES DO NAVEGADOR =====*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+* {
+
+    padding: 0;
+    margin: 0;
+    vertical-align: none;
+    list-style: none;
+    border: 0;
+    color:darkblue;
+    text-decoration: none;
+  } 
+.main{
+width: 550px;
+height:650px;
+background-color: rgb(72, 88, 110);
+}  
+.perfil{
+ margin-top: 10vh;
+ position: sticky;
+ width: 200px;
+ height:200px;
+ background-color:rgb(100, 60, 104);
+
+}
+
+.topR1alinhamento{
+position: relative;
+left: 10px;
+width: 100px;
+height:100px;
+background-color: rgb(96, 142, 96);
+
+
+
+}
